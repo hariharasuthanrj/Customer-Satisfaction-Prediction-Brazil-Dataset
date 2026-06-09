@@ -71,7 +71,6 @@ The project evaluates awareness levels across technologies such as:
 
 ## Visualisation
 
-<img width="1610" height="985" alt="Screenshot 2026-06-08 213947" src="https://github.com/user-attachments/assets/3b527c65-184f-493f-a748-0d427f87fbc0" />
 
 <img width="439" height="457" alt="image" src="https://github.com/user-attachments/assets/1bba0348-fbc6-4cab-a3be-d2d6f4270f2b" />
 
