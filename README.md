@@ -71,11 +71,11 @@ The project evaluates awareness levels across technologies such as:
 
 ## Workflow Features
 
-✔ Data Cleaning  
-✔ Data Transformation  
-✔ Statistical Analysis  
-✔ Visualization Workflows  
-✔ Automated Analytics Pipeline  
+- Data Cleaning  
+- Data Transformation  
+- Statistical Analysis  
+- Visualization Workflows  
+- Automated Analytics Pipeline  
 
 ## Visualisation
 
